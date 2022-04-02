@@ -1,6 +1,6 @@
 # Annotated Line Chart with Highcharts
 
-![Annotated line chart](./annotated-line-example.png)
+![Annotated line chart](./Line-Chart.png)
 
 ## Demo
 https://ldelg082.github.io/line-cgart-practice/
